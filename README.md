@@ -1,112 +1,262 @@
-<h1 align="center">Hi 👋, I'm Sheikh Nabeel</h1>
-<h3 align="center">Software Engineering Student | Building with C++ & JavaScript</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;React+%7C+Next.js+%7C+PostgreSQL;C%2B%2B+%7C+DSA+%7C+OOP;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sheikh%20Nabeel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+GIK+Institute;Full+Stack+Developer+%7C+React+%2F+Next.js;C%2B%2B+%7C+DSA+%7C+System+Design;Building+Real-World%2C+Production-Ready+Apps" alt="Typing SVG" />
+
+<br/>
+
+![Education](https://img.shields.io/badge/BS_Software_Engineering-GIK_Institute-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Karachi,_Pakistan-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sheikhnabeel-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-nabeel-34687a291/)
+[![Gmail](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhnabeel2201182@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D28D9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=8B5CF6)
+
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+```yaml
+name: Sheikh Nabeel
+role: Software Engineering Student
+institute: GIK Institute (Expected 2028)
+cgpa: 3.09 / 4.00
+focus: Full-Stack Web Development, Systems Programming (C++), DSA
+philosophy: "Ship real things, learn by building, iterate fast."
+```
+
+I'm a Software Engineering student with a strong grip on **C++** and **JavaScript**, building
+full-stack applications end-to-end — from database schema design to deployment. My projects
+span **React/Next.js web platforms**, **authentication & backend systems**, and **low-level
+C++ tools** built on core data structures and algorithms.
+
+**🎯 Open To:**
+- Software Engineering Internships
+- Full-Stack / Frontend Developer roles
+- Open-source collaboration
+- Team-based technical projects
 
 ---
 
-### 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🎓 Currently pursuing a **BS in Software Engineering** at **GIK Institute** (Expected 2028)
-- 💻 Strong foundation in **C++** and **JavaScript**
-- 🌱 Learning through real-world projects and collaborative environments
-- 🛠️ Comfortable across the stack — from Data Structures in C++ to full-stack apps with Next.js
-- 📫 Reach me at: **sheikhnabeel2201182@gmail.com**
-- 📍 Based in Karachi, Pakistan
-
----
-
-### 🧰 Tech Stack
+<div align="center">
 
 **Languages**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Web**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+**Frontend**
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
 
----
+**Backend & Databases**
 
-### 🔥 Featured Projects
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📌 PinBoard – Full-Stack Visual Pin Sharing Platform</h4>
-      <p>Pinterest-inspired full-stack app with multi-provider auth (Google, GitHub, credentials), a 6-entity PostgreSQL schema via Prisma, and a REST API built with Next.js Route Handlers.</p>
-      <p><b>Stack:</b> Next.js, PostgreSQL, Prisma, NextAuth.js, Cloudinary, Tailwind CSS</p>
-      <p>🔗 <a href="#">GitHub</a> &nbsp;|&nbsp; 🔗 <a href="#">Live Demo</a></p>
-    </td>
-    <td width="50%">
-      <h4>⚙️ METALEDGE – Metal Creation Website</h4>
-      <p>Responsive metal fabrication business site with dynamic product pages, one-click WhatsApp ordering, Firebase Authentication + Firestore, and a protected admin dashboard with Cloudinary uploads.</p>
-      <p><b>Stack:</b> React.js, React Router, Firebase, Cloudinary</p>
-      <p>🔗 <a href="#">Live Demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🔐 CryptX – Compression and Encryption Tool</h4>
-      <p>File compression system using Huffman Coding (30–40% size reduction on text files), XOR-based encryption/decryption, and operation history tracking using stacks and linked lists. Built as a 3-member team project.</p>
-      <p><b>Stack:</b> C++</p>
-      <p>🔗 <a href="#">GitHub</a></p>
-    </td>
-    <td width="50%">
-      <h4>✨ More on the way</h4>
-      <p>Currently exploring new ideas in full-stack development and systems programming — check back soon!</p>
-    </td>
-  </tr>
-</table>
+**Tooling & Platforms**
+
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+
+</div>
 
 ---
 
-### 📜 Certifications
+## 📚 Core Concepts & Practices
 
-- Python Programming Essentials — Rice University
-- Object-Oriented Programming in C++: Functions — University of London
-- Introduction to Front-End Development — Meta
-- Generative AI: Prompt Engineering Basics — IBM
-- More on my [Portfolio](#)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+| Domain | Focus Areas |
+|---|---|
+| **Programming Foundations** | Object-Oriented Programming, Data Structures & Algorithms |
+| **Databases** | Relational schema design (PostgreSQL/Prisma), NoSQL (Firestore, MongoDB) |
+| **Auth & Security** | Multi-provider auth (NextAuth.js), session validation, XOR-based encryption |
+| **Applied AI** | Prompt Engineering fundamentals (IBM certified) |
 
 ---
 
-### 🤝 Connect with Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:sheikhnabeel2201182@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<details>
+<summary><b>📌 PinBoard — Full-Stack Visual Pin Sharing Platform</b></summary>
+<br/>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
+A Pinterest-inspired full-stack platform where users upload pins, create boards, and
+like/comment on posts — built with a production-style architecture.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Next.js, PostgreSQL, Prisma, NextAuth.js, Cloudinary, Tailwind CSS |
+| **Architecture** | REST API via Next.js Route Handlers, 6-entity relational schema |
+| **Auth** | Multi-provider (Google, GitHub, credentials) with server-side session validation |
+| **Media** | Cloudinary-powered image delivery pipeline |
+| **Deployment** | Vercel |
+| **Repository** | [GitHub](#) · [Live Demo](#) |
+
+</details>
+
+<details>
+<summary><b>⚙️ METALEDGE — Metal Fabrication Business Platform</b></summary>
+<br/>
+
+A responsive business website for a metal fabrication company, replacing a static
+hardcoded catalogue with a live, client-manageable backend.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | React.js, React Router, Firebase (Auth + Firestore), Cloudinary |
+| **Features** | Dynamic product pages, one-click WhatsApp ordering |
+| **Admin System** | Protected admin dashboard (`/admin/login`, `/admin/dashboard`) for code-free product management |
+| **Media** | Cloudinary image uploads |
+| **Repository** | [Live Demo](#) |
+
+</details>
+
+<details>
+<summary><b>🔐 CryptX — Compression & Encryption Tool</b></summary>
+<br/>
+
+A C++ systems tool combining custom compression and encryption, built with a 3-member team.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | C++ |
+| **Compression** | Huffman Coding — 30–40% size reduction on text files |
+| **Security** | XOR-based encryption/decryption at file & text level |
+| **Data Structures** | Operation history tracked via stack + linked list |
+| **Repository** | [GitHub](#) |
+
+</details>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🎓 Academic Standing | CGPA 3.09/4.00 — BS Software Engineering, GIK Institute |
+| 📜 Certifications Completed | 4 verified courses across Python, C++ OOP, Front-End Dev & Generative AI |
+| 🧩 Team Project | Co-built CryptX in a 3-member collaborative team |
+| 🌐 Deployed Projects | 2 live full-stack applications (PinBoard, METALEDGE) |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**Rice University**
+![Python](https://img.shields.io/badge/Python_Programming_Essentials-6D28D9?style=flat-square&logo=coursera&logoColor=white)
+
+**University of London**
+![C++ OOP](https://img.shields.io/badge/OOP_in_C%2B%2B:_Functions-7C3AED?style=flat-square&logo=coursera&logoColor=white)
+
+**Meta**
+![Front-End](https://img.shields.io/badge/Intro_to_Front--End_Development-8B5CF6?style=flat-square&logo=meta&logoColor=white)
+
+**IBM**
+![Prompt Engineering](https://img.shields.io/badge/Generative_AI:_Prompt_Engineering-A78BFA?style=flat-square&logo=ibm&logoColor=white)
+
+📁 Full list on my [Portfolio](https://sheikhnabeel-portfolio.vercel.app/#certificates)
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/LVaNBBffPh/)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" width="35%"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="70%"/>
+
+</div>
+
+### 🏅 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7" width="90%"/>
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD" width="95%"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Data Structures & Algorithms
+  - System Design fundamentals
+  - Backend architecture patterns
+building:
+  - New full-stack projects with Next.js & PostgreSQL
+exploring:
+  - Generative AI tooling & prompt engineering
+open_to:
+  - Internships
+  - Collaborative open-source projects
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://sheikhnabeel-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-nabeel-34687a291/)
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhnabeel2201182@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+<div align="center">
+<i>"Write code that works. Then make it work well."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
