@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sheikh%20Nabeel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+GIK+Institute;Full+Stack+Developer+%7C+React+%2F+Next.js;C%2B%2B+%7C+DSA+%7C+System+Design;Building+Real-World%2C+Production-Ready+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+GIK+Institute;Full+Stack+Developer;C%2B%2B+%7C+DSA+%7C+OOP;Building+Real-World%2C+Production-Ready+Apps" alt="Typing SVG" />
 
 <br/>
 
@@ -14,26 +14,20 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sheikhnabeel-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-nabeel-34687a291/)
 [![Gmail](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhnabeel2201182@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6D28D9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=7C3AED)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=8B5CF6)
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/LVaNBBffPh/)
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: Sheikh Nabeel
 role: Software Engineering Student
 institute: GIK Institute (Expected 2028)
 cgpa: 3.09 / 4.00
-focus: Full-Stack Web Development, Systems Programming (C++), DSA
+focus: Full-Stack Web Development, C++, DSA, OOP
 philosophy: "Ship real things, learn by building, iterate fast."
 ```
 
@@ -42,7 +36,7 @@ full-stack applications end-to-end — from database schema design to deployment
 span **React/Next.js web platforms**, **authentication & backend systems**, and **low-level
 C++ tools** built on core data structures and algorithms.
 
-**🎯 Open To:**
+**Open To:**
 - Software Engineering Internships
 - Full-Stack / Frontend Developer roles
 - Open-source collaboration
@@ -50,7 +44,7 @@ C++ tools** built on core data structures and algorithms.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -86,18 +80,18 @@ C++ tools** built on core data structures and algorithms.
 
 ---
 
-## 📚 Core Concepts & Practices
+## Core Concepts & Practices
 
 | Domain | Focus Areas |
 |---|---|
 | **Programming Foundations** | Object-Oriented Programming, Data Structures & Algorithms |
 | **Databases** | Relational schema design (PostgreSQL/Prisma), NoSQL (Firestore, MongoDB) |
 | **Auth & Security** | Multi-provider auth (NextAuth.js), session validation, XOR-based encryption |
-| **Applied AI** | Prompt Engineering fundamentals (IBM certified) |
+| **AI & Prompt Engineering** | Prompt Engineering fundamentals (IBM certified) |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>📌 PinBoard — Full-Stack Visual Pin Sharing Platform</b></summary>
@@ -113,7 +107,7 @@ like/comment on posts — built with a production-style architecture.
 | **Auth** | Multi-provider (Google, GitHub, credentials) with server-side session validation |
 | **Media** | Cloudinary-powered image delivery pipeline |
 | **Deployment** | Vercel |
-| **Repository** | [GitHub](#) · [Live Demo](#) |
+| **Repository** | [GitHub](https://github.com/Nabeel-8090/pinboard-nextjs) · [Live Demo](https://pinboard-nextjs.vercel.app/) |
 
 </details>
 
@@ -130,7 +124,7 @@ hardcoded catalogue with a live, client-manageable backend.
 | **Features** | Dynamic product pages, one-click WhatsApp ordering |
 | **Admin System** | Protected admin dashboard (`/admin/login`, `/admin/dashboard`) for code-free product management |
 | **Media** | Cloudinary image uploads |
-| **Repository** | [Live Demo](#) |
+| **Repository** | [Live Demo](https://metaledge-ss.vercel.app/) |
 
 </details>
 
@@ -146,13 +140,13 @@ A C++ systems tool combining custom compression and encryption, built with a 3-m
 | **Compression** | Huffman Coding — 30–40% size reduction on text files |
 | **Security** | XOR-based encryption/decryption at file & text level |
 | **Data Structures** | Operation history tracked via stack + linked list |
-| **Repository** | [GitHub](#) |
+| **Repository** | [GitHub](https://github.com/Nabeel-8090/CryptX-DSA-Project) |
 
 </details>
 
 ---
 
-## 🏆 Achievements & Highlights
+## Achievements & Highlights
 
 <div align="center">
 
@@ -167,7 +161,7 @@ A C++ systems tool combining custom compression and encryption, built with a 3-m
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 **Rice University**
 ![Python](https://img.shields.io/badge/Python_Programming_Essentials-6D28D9?style=flat-square&logo=coursera&logoColor=white)
@@ -181,52 +175,11 @@ A C++ systems tool combining custom compression and encryption, built with a 3-m
 **IBM**
 ![Prompt Engineering](https://img.shields.io/badge/Generative_AI:_Prompt_Engineering-A78BFA?style=flat-square&logo=ibm&logoColor=white)
 
-📁 Full list on my [Portfolio](https://sheikhnabeel-portfolio.vercel.app/#certificates)
+Full list on my [Portfolio](https://sheikhnabeel-portfolio.vercel.app/#certificates)
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/LVaNBBffPh/)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117" width="35%"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="70%"/>
-
-</div>
-
-### 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7" width="90%"/>
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD" width="95%"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -244,14 +197,14 @@ open_to:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://sheikhnabeel-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-nabeel-34687a291/)
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhnabeel2201182@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/LVaNBBffPh/)
 
 </div>
 
